@@ -9,4 +9,10 @@
 ![DAX](https://img.shields.io/badge/Formula-DAX-purple)
 ![Parquet](https://img.shields.io/badge/Format-Parquet-00599C)
 
+## 📌 Project Overview
+This project delivers an **end-to-end healthcare analytics and MIS dashboard** designed to monitor the operational performance of **Primary Health Centers (PHCs)** and telemedicine workflows.  
+The solution enables **data-driven decision-making** by providing real-time visibility into doctor performance, patient throughput, consultation efficiency, and compliance with key healthcare KPIs.
 
+The analytics solution follows a **web-based, SaaS-style reporting model**, where data is centrally processed and accessed through interactive dashboards by multiple stakeholders.
+
+---
