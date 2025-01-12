@@ -16,3 +16,13 @@ The solution enables **data-driven decision-making** by providing real-time visi
 The analytics solution follows a **web-based, SaaS-style reporting model**, where data is centrally processed and accessed through interactive dashboards by multiple stakeholders.
 
 ---
+
+
+## 🎯 Business Objectives
+- Monitor **operational and clinical KPIs** across PHCs  
+- Improve visibility into **doctor utilization and patient flow**  
+- Enable **timely reporting** for healthcare administrators and evaluation teams  
+- Reduce **manual reporting effort** through ETL automation  
+- Support **data accuracy, audit readiness, and compliance reporting**
+
+---
