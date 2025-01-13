@@ -26,3 +26,21 @@ The analytics solution follows a **web-based, SaaS-style reporting model**, wher
 - Support **data accuracy, audit readiness, and compliance reporting**
 
 ---
+
+
+## 📊 Key Dashboards & Insights
+The Power BI dashboards provide insights across multiple dimensions, including:
+
+- **Doctor Performance**  
+  Consultation counts, efficiency metrics, workload distribution  
+
+- **Patient Analytics**  
+  Registration trends, consultation completion rates, appointment adherence  
+
+- **Operational Efficiency**  
+  Patient–doctor queue analysis, throughput monitoring, bottleneck identification  
+
+- **KPI Monitoring & Compliance**  
+  Threshold-based indicators aligned with healthcare and government-mandated KPIs  
+
+---
