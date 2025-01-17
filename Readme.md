@@ -44,3 +44,15 @@ The Power BI dashboards provide insights across multiple dimensions, including:
   Threshold-based indicators aligned with healthcare and government-mandated KPIs  
 
 ---
+
+## 🛠️ Technology Stack
+
+### Analytics & Visualization
+- Power BI  
+- DAX  
+- Interactive dashboards & MIS reporting  
+
+### Data Processing & ETL
+- Python (Pandas, NumPy)  
+- Automated data cleaning, transformation, and validation  
+- Modular ETL design for scalability
