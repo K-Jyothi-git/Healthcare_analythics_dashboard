@@ -56,3 +56,51 @@ The Power BI dashboards provide insights across multiple dimensions, including:
 - Python (Pandas, NumPy)  
 - Automated data cleaning, transformation, and validation  
 - Modular ETL design for scalability
+
+
+### Data Modeling
+- Star Schema  
+- Snowflake Schema  
+- Optimized for analytical querying and dashboard performance  
+
+### Data Sources
+- Structured healthcare and operational datasets (CSV / relational formats)  
+
+---
+
+## 🔄 ETL & Data Pipeline Overview
+The project implements a structured ETL workflow:
+Raw Healthcare Data
+↓
+Python ETL (Cleaning, Validation, Transformation)
+↓
+Modeled Analytical Tables (Star / Snowflake Schema)
+↓
+Power BI Data Model
+↓
+Interactive Dashboards & KPI Reports
+
+
+Key ETL features include:
+- Automated data ingestion and preprocessing  
+- Data quality checks and anomaly identification  
+- KPI-ready datasets for consistent reporting  
+
+---
+
+## 📈 Results & Impact
+- Enabled **centralized monitoring** of healthcare operations across multiple PHCs  
+- Improved **reporting timeliness and reliability** through ETL automation  
+- Supported **data-driven operational reviews** for healthcare stakeholders  
+- Reduced dependency on **manual data preparation and ad-hoc reporting**  
+- Provided a **scalable analytics framework** for onboarding additional healthcare units  
+
+---
+
+## 👥 Target Users
+- Healthcare administrators  
+- Monitoring & Evaluation (M&E) teams  
+- Operations managers  
+- Medical and telemedicine coordination teams  
+
+---
