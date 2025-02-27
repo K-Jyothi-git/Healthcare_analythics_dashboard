@@ -104,3 +104,37 @@ Key ETL features include:
 - Medical and telemedicine coordination teams  
 
 ---
+
+## 📂 Repository Structure
+├── PowerBI_Dashboard/
+│ └── Healthcare_Analytics.pbix
+├── Scripts/
+│ └── ETL_Python_Scripts.py
+├── Screenshots/
+│ └── Dashboard_Views.png
+└── README.md
+
+
+---
+
+## 🧠 Key Takeaways
+This project demonstrates:
+- Practical application of **ETL automation for analytics**  
+- Strong **healthcare domain understanding**  
+- KPI-driven dashboard design  
+- Analytics support for **operational decision-making**  
+- Experience working with **SaaS-style, web-based reporting platforms**
+
+---
+
+## 📎 Author
+**Ashutosh Singh**  
+Senior Data Analyst – Healthcare & Telemedicine Analytics  
+
+GitHub: https://github.com/AshutoshsinghIndore  
+
+---
+
+## 🔐 Disclaimer
+This project uses **sample or anonymized data** for demonstration purposes.  
+No sensitive or personal healthcare information is disclosed.
