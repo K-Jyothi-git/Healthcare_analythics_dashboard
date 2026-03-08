@@ -1,4 +1,4 @@
-# 🏥 Healthcare Performance Analytics Dashboard  
+# Healthcare Performance Analytics Dashboard  
 **Power BI | Python | SQL | ETL | KPI Reporting**
 
 ![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-yellow?style=for-the-badge)
@@ -9,7 +9,7 @@
 ![DAX](https://img.shields.io/badge/Formula-DAX-purple)
 ![Parquet](https://img.shields.io/badge/Format-Parquet-00599C)
 
-## 📌 Project Overview
+## Project Overview
 This project delivers an **end-to-end healthcare analytics and MIS dashboard** designed to monitor the operational performance of **Primary Health Centers (PHCs)** and telemedicine workflows.  
 The solution enables **data-driven decision-making** by providing real-time visibility into doctor performance, patient throughput, consultation efficiency, and compliance with key healthcare KPIs.
 
@@ -18,7 +18,7 @@ The analytics solution follows a **web-based, SaaS-style reporting model**, wher
 ---
 
 
-## 🎯 Business Objectives
+## Business Objectives
 - Monitor **operational and clinical KPIs** across PHCs  
 - Improve visibility into **doctor utilization and patient flow**  
 - Enable **timely reporting** for healthcare administrators and evaluation teams  
@@ -28,7 +28,7 @@ The analytics solution follows a **web-based, SaaS-style reporting model**, wher
 ---
 
 
-## 📊 Key Dashboards & Insights
+## Key Dashboards & Insights
 The Power BI dashboards provide insights across multiple dimensions, including:
 
 - **Doctor Performance**  
@@ -45,7 +45,7 @@ The Power BI dashboards provide insights across multiple dimensions, including:
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Analytics & Visualization
 - Power BI  
@@ -68,7 +68,7 @@ The Power BI dashboards provide insights across multiple dimensions, including:
 
 ---
 
-## 🔄 ETL & Data Pipeline Overview
+## ETL & Data Pipeline Overview
 The project implements a structured ETL workflow:
 Raw Healthcare Data
 ↓
@@ -88,7 +88,7 @@ Key ETL features include:
 
 ---
 
-## 📈 Results & Impact
+## Results & Impact
 - Enabled **centralized monitoring** of healthcare operations across multiple PHCs  
 - Improved **reporting timeliness and reliability** through ETL automation  
 - Supported **data-driven operational reviews** for healthcare stakeholders  
@@ -97,7 +97,7 @@ Key ETL features include:
 
 ---
 
-## 👥 Target Users
+## Target Users
 - Healthcare administrators  
 - Monitoring & Evaluation (M&E) teams  
 - Operations managers  
@@ -105,7 +105,7 @@ Key ETL features include:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ├── PowerBI_Dashboard/
 │ └── Healthcare_Analytics.pbix
 ├── Scripts/
@@ -117,7 +117,7 @@ Key ETL features include:
 
 ---
 
-## 🧠 Key Takeaways
+## Key Takeaways
 This project demonstrates:
 - Practical application of **ETL automation for analytics**  
 - Strong **healthcare domain understanding**  
@@ -127,14 +127,7 @@ This project demonstrates:
 
 ---
 
-## 📎 Author
-**Ashutosh Singh**  
-Senior Data Analyst – Healthcare & Telemedicine Analytics  
 
-GitHub: https://github.com/AshutoshsinghIndore  
-
----
-
-## 🔐 Disclaimer
+## Disclaimer
 This project uses **sample or anonymized data** for demonstration purposes.  
 No sensitive or personal healthcare information is disclosed.
